@@ -16,9 +16,10 @@
     "hubot-heroku-keepalive": "~1.0.2",
     "hubot-redis-brain": "0.0.3",
     "hubot-scripts": "~2.16.2",
+    "hubot-discord",
     "hubot": "~2.18.0"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "5.x.x"
   }
 }
