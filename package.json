@@ -1,5 +1,5 @@
 {
- "name": "Peen",
+  "name": "Peen",
   "version": "0.0.0",
   "private": true,
   "author": "reishka@gmail.com",
@@ -16,13 +16,11 @@
     "hubot-redis-brain": "0.0.3",
     "hubot-scripts": "~2.16.2",
     "hubot": "~2.18.0"
-    
   },
   "engines": {
     "node": "5.x.x"
   },
   "devDependencies": {
-    "hubot-discord": "^1.0.1",
-    "hubot-meowme": "0.0.1"
+    "hubot-discord": "^1.0.1"
   }
 }
